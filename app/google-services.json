@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334815076648",
+    "firebase_url": "https://comercio-e420b.firebaseio.com",
+    "project_id": "comercio-e420b",
+    "storage_bucket": "comercio-e420b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334815076648:android:40e185a84fa48f6a0d701d",
+        "android_client_info": {
+          "package_name": "com.example.comercio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334815076648-qvttso1blp70rqb15rllme1elc6njq10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE3rWDyEy6b_u9wfgR5pWbK50yVz3lwSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334815076648-qvttso1blp70rqb15rllme1elc6njq10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
